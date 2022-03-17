@@ -1,4 +1,5 @@
 // source code
+//백준 2588번
 import java.util.*; //Scanner Class 불러오기.
 
 public class Main {
