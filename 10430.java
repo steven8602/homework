@@ -1,7 +1,8 @@
 // source code
+//백준 10430번
+
 import java.util.Scanner;
 
-//백준 10430번
 public class Example02 {
 
 	public static void main(String[] args) {
