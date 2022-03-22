@@ -18,7 +18,7 @@ public class Example {
 	    sc.close();
 
 	   
-	    System.out.format("%d\n", ~a);
+	    System.out.format(~a);
 
 	   }
 
